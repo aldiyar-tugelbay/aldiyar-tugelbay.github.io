@@ -1,0 +1,23 @@
+{
+  "name": "aldiyar-tugelbay.github.io-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bootstrap.bundle.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldiyar-tugelbay/aldiyar-tugelbay.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aldiyar-tugelbay/aldiyar-tugelbay.github.io/issues"
+  },
+  "homepage": "https://github.com/aldiyar-tugelbay/aldiyar-tugelbay.github.io#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
